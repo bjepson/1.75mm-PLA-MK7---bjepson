@@ -2,7 +2,7 @@
 (This file is for 1.75mm PLA in a MK7 Extruder)
 G21 (set units to mm)
 G90 (set positioning to absolute)
-M104 S200 (set extruder temperature)
+M104 S210 (set extruder temperature)
 M109 S65 (set heated-build-platform temperature)
 M108 R1.98 (set extruder speed)
 M103 (Make sure extruder is off)
